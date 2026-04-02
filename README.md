@@ -4,26 +4,26 @@
 I'm a developer and Data Science student, focused on building real-world projects and constantly improving my skills through practice and experimentation.
 
 🚀 What I'm doing right now:
--Studying Data Science and exploring data-driven solutions
--Developing web applications with Next.js
--Learning how to build scalable systems and work with data
+- Studying Data Science and exploring data-driven solutions
+- Developing web applications with Next.js
+- Learning how to build scalable systems and work with data
 
 💡 My mindset:
--I like to understand how things work, not just use them
--I enjoy solving problems, debugging, and analyzing data
--Always looking for smarter and more efficient solutions
+- I like to understand how things work, not just use them
+- I enjoy solving problems, debugging, and analyzing data
+- Always looking for smarter and more efficient solutions
 
 🛠️ Tech stack:
--JavaScript
--React / Next.js
--Node.js
--Python (for Data Science)
--Git & GitHub
+- JavaScript
+- React / Next.js
+- Node.js
+- Python (for Data Science)
+- Git & GitHub
 
 📊 Data interests:
--Data analysis and visualization
--Machine learning fundamentals
--Turning data into useful insights
+- Data analysis and visualization
+- Machine learning fundamentals
+- Turning data into useful insights
 
 ## My social network, let's connect
 
