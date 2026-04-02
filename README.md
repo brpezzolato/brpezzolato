@@ -15,6 +15,7 @@ I'm a developer and Data Science student, focused on building real-world project
 
 🛠️ Tech stack:
 
+<div style="display: flex;">
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black" />
@@ -26,6 +27,7 @@ I'm a developer and Data Science student, focused on building real-world project
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=Figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=Linux&logoColor=black" />
+</div>
 
 📊 Data interests:
 - Data analysis and visualization
