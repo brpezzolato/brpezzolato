@@ -12,6 +12,11 @@ I'm a developer and Data Science student, focused on building real-world project
 - I like to understand how things work, not just use them
 - I enjoy solving problems, debugging, and analyzing data
 - Always looking for smarter and more efficient solutions
+ 
+📊 Data interests:
+- Data analysis and visualization
+- Machine learning fundamentals
+- Turning data into useful insights
 
 🛠️ Tech stack:
 
@@ -26,12 +31,6 @@ I'm a developer and Data Science student, focused on building real-world project
 [<img style="border-radius: 10px;" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>]()
 [<img style="border-radius: 10px;" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>]()
 [<img style="border-radius: 10px;" src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black"/>]()
-
-
-📊 Data interests:
-- Data analysis and visualization
-- Machine learning fundamentals
-- Turning data into useful insights
 
 ## My social network, let's connect
 
