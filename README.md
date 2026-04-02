@@ -1,4 +1,4 @@
-## Hi, I’m Bruno Pezzolato Hollosi
+# Hi, I’m Bruno Pezzolato Hollosi
 
 ### About me
 I'm a developer and Data Science student, focused on building real-world projects and constantly improving my skills through practice and experimentation.
