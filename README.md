@@ -15,7 +15,7 @@ I'm a developer and Data Science student, focused on building real-world project
 
 🛠️ Tech stack:
 
-[<img style="border-radius: 10px;" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>]()
+[<img style="border-radius: 10px !important;" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>]()
 [<img style="border-radius: 10px;" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>]()
 [<img style="border-radius: 10px;" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>]()
 [<img style="border-radius: 10px;" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"/>]()
