@@ -14,11 +14,17 @@ I'm a developer and Data Science student, focused on building real-world project
 - Always looking for smarter and more efficient solutions
 
 🛠️ Tech stack:
-- JavaScript
-- React / Next.js
-- Node.js
-- Python (for Data Science)
-- Git & GitHub
+[https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white]
+[https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white]
+[https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black]
+[https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white]
+[https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white]
+[https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white]
+[https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white]
+[https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white]
+[https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white]
+[https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white]
+[https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black]
 
 📊 Data interests:
 - Data analysis and visualization
