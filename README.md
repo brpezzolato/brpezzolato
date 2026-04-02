@@ -14,6 +14,7 @@ I'm a developer and Data Science student, focused on building real-world project
 - Always looking for smarter and more efficient solutions
 
 🛠️ Tech stack:
+
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black" />
