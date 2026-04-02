@@ -29,6 +29,7 @@ I'm a developer and Data Science student, focused on building real-world project
   <img height="32" src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=Linux&logoColor=black" />
 </div>
 
+
 📊 Data interests:
 - Data analysis and visualization
 - Machine learning fundamentals
